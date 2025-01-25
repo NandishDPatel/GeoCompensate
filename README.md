@@ -3,7 +3,7 @@
 conducted. This app streamlines payroll operations and enhances transparency, efficiency, and accuracy, ultimately revolutionizing how businesses manage their mobile workforce.
 
 # Video Link
-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=GqKjJTQcdX8)
+- !(https://www.youtube.com/watch?v=GqKjJTQcdX8)
 
 ## Project Photos
 - 
