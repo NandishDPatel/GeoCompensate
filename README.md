@@ -15,3 +15,44 @@ conducted. This app streamlines payroll operations and enhances transparency, ef
 
 - View Timesheet
 - ![View Timesheet](images/view_timesheet.png)
+
+## Prerequisites
+Before getting started, make sure to download Android Studio to use the android emulator 
+
+## How to run the Mobile App locally
+Follow these steps to set up and run the JourneyGenie website on your local machine.
+
+### 1. Clone the Repository
+
+First, clone the repository from the main branch using the following command:
+
+```bash
+git clone https://github.com/NandishDPatel/JourneyGenie.git
+```
+
+### 2. Navigate to the Project Folder
+
+Change into the `GeoCompensate_app` directory on your local machine:
+
+```bash
+cd GeoCompensate_app
+```
+
+### 3. Install Dependencies
+
+Run the following command to install the necessary npm packages and dependencies:
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+Run the following command to launch the frontend development server started running:
+
+```bash
+npm run dev
+```
+
+Now launch the emulator from VS code or from Android studio and your GeoCompensate app should be up and running:)
+
