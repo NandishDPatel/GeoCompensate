@@ -3,14 +3,14 @@
 conducted. This app streamlines payroll operations and enhances transparency, efficiency, and accuracy, ultimately revolutionizing how businesses manage their mobile workforce.
 
 # Video Link
-- !(https://www.youtube.com/watch?v=GqKjJTQcdX8)
+- https://www.youtube.com/watch?v=GqKjJTQcdX8
 
 ## Project Photos
 - Home screen when user opens the app for the first time
-- [![Home Screen](images/homescreen.png)]
-
+- ![Home Screen](images/homescreen.png)
+  
 - After employee logs into the app
-- [![Landing Page](images/landingpage.png)]
+- ![Landing Page](images/landingpage.png)
 
 - View Timesheet
-- [![View Timesheet](images/view_timesheet.png)]
+- ![View Timesheet](images/view_timesheet.png)
